@@ -69,7 +69,7 @@
   },
   "dependencies": {
     "@web3-onboard/common": "^2.4.1",
-    "joi": "17.9.1",
+    "joi": "17.13.7",
     "lodash.uniqby": "^4.7.0"
   }
 }
