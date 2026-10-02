@@ -72,7 +72,7 @@
     "prettier-plugin-svelte": "^2.4.0",
     "rollup": "^2.3.4",
     "rollup-plugin-svelte": "^7.0.0",
-    "svelte": "^3.49.0",
+    "svelte": "^5.57.1",
     "svelte-check": "^2.2.6",
     "svelte-preprocess": "^4.9.4",
     "tsc": "^2.0.3",
@@ -81,7 +81,7 @@
   },
   "dependencies": {
     "@web3-onboard/common": "^2.4.1",
-    "joi": "17.9.1",
+    "joi": "17.13.7",
     "magic-sdk": "^8.1.0",
     "rxjs": "^7.5.2"
   }

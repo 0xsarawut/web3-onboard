@@ -73,7 +73,7 @@
     "prettier-plugin-svelte": "^2.4.0",
     "rollup": "^2.3.4",
     "rollup-plugin-svelte": "^7.0.0",
-    "svelte": "^3.49.0",
+    "svelte": "^5.57.1",
     "svelte-check": "^2.2.6",
     "svelte-preprocess": "^4.9.4",
     "tslib": "^2.0.0",
@@ -83,7 +83,7 @@
     "@ethereumjs/common": "2.6.2",
     "@web3-onboard/common": "^2.4.1",
     "ethers": "5.5.4",
-    "joi": "17.9.1",
+    "joi": "17.13.7",
     "rxjs": "^7.5.2",
     "bignumber.js": "^9.1.0"
   }
